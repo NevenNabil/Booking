@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>card.png</file>
+    <file>id.png</file>
+    <file>credit card.png</file>
+    <file>PAYPAL.png</file>
+    <file>SECURITY CODE.png</file>
+    <file>caar.png</file>
+    <file>food.png</file>
+    <file>room.png</file>
+    <file>calender.png</file>
+    <file>adult children2.png</file>
+    <file>add.png</file>
+    <file>address.png</file>
+    <file>id.png</file>
+    <file>username.png</file>
+    <file>pass.png</file>
+    <file>mobile.png</file>
+    <file>email.png</file>
+    <file>gender.png</file>
+    <file>booking.png</file>
+    <file>IMG.png</file>
+  </qresource>
+</RCC>
